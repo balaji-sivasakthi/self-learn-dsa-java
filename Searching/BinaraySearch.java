@@ -3,7 +3,7 @@ class BinarySearch {
         int[] arr = new int[]{10,50,3,29,4,37};
         int result = search(arr, 50);
         if(result != -1){
-            System.out.println("Element found at the index "+ result);
+            System.out.println("Element found at the index " + result);
         }else{
             System.out.println("Element not found");
         }
