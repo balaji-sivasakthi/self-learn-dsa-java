@@ -1,4 +1,4 @@
-# self-learn-dsa-java
+# Self Learn Dsa Java
 Practice atleast one problem a day 😻
 
 ### Searching
