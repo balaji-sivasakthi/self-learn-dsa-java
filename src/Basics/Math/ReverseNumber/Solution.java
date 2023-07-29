@@ -14,7 +14,7 @@ public class Solution {
         }
         System.out.println("Reverse of the number "+temp+" is "+reverse);
         /*
-         *     Time Complexity =  o(n)
+         *     Time Complexity =  o(N)
          *     Space Complexity = O(1)
          * */
     }
