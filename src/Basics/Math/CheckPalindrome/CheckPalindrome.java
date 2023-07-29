@@ -13,5 +13,9 @@ public class CheckPalindrome {
             number  = number / 10;
         }
         System.out.println("Is this Palindrome? "+((temp == reverse)?"Yes":"No"));
+        /*
+        *       Time Complexity   O(log N)
+        *       Space Complexity  O(1)
+        * */
     }
 }
