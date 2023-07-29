@@ -8,6 +8,9 @@ public class Solution3 {
         int number = scanner.nextInt();
         int digits = (int) Math.floor(Math.log10(number)+1);
         System.out.println("Number of Digits "+digits);
-
+        /*
+         *     Time Complexity =  o(1)
+         *     Space Complexity = O(1)
+         * */
     }
 }

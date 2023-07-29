@@ -13,5 +13,9 @@ public class Solution {
             number  = number/10;
         }
         System.out.println("Reverse of the number "+temp+" is "+reverse);
+        /*
+         *     Time Complexity =  o(n)
+         *     Space Complexity = O(1)
+         * */
     }
 }

@@ -8,5 +8,9 @@ public class Solution2 {
         int number = scanner.nextInt();
         String str = String.valueOf(number);
         System.out.println("Number of Digits"+str.length());
+        /*
+         *     Time Complexity =  o(1)
+         *     Space Complexity = O(1)
+         * */
     }
 }
