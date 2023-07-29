@@ -13,7 +13,7 @@ public class Solution1 {
         System.out.println("Number of Digits "+ digits);
 
         /*
-        *     Time Complexity =  o(N)
+        *     Time Complexity =  O(N)
         *     Space Complexity = O(1)
         * */
     }

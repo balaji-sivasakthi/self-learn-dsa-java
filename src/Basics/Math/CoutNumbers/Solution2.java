@@ -9,7 +9,7 @@ public class Solution2 {
         String str = String.valueOf(number);
         System.out.println("Number of Digits"+str.length());
         /*
-         *     Time Complexity =  o(1)
+         *     Time Complexity =  O(1)
          *     Space Complexity = O(1)
          * */
     }
