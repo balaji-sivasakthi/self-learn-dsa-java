@@ -1,9 +1,8 @@
 package Basics.Recursion.PrintNto1;
 
-import java.awt.*;
 import java.util.Scanner;
 
-public class PrintNto1 {
+public class Solution {
     public static void printNumbers(int num){
         if(num == 0) return;
         System.out.println(num);

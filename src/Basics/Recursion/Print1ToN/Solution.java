@@ -2,7 +2,7 @@ package Basics.Recursion.Print1ToN;
 
 import java.util.Scanner;
 
-public class Print1ToN {
+public class Solution {
     public static void printNumbers(int first, int last ) {
         // Base Condition
         if(first>last) return;
