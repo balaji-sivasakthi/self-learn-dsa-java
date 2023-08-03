@@ -1,8 +1,8 @@
-package Basics.Recursion;
+package Basics.Recursion.Print1ToN;
 
 import java.util.Scanner;
 
-public class PrintNumbersUsingRecursion {
+public class Print1ToN {
     public static void printNumbers(int first, int last ) {
         // Base Condition
         if(first>last) return;
