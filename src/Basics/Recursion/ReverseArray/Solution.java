@@ -15,8 +15,8 @@ public class Solution {
     }
     public static void swap(int[] arr, int i, int j){
         int temp = arr[i];
-        arr[i] = arr[j];
-        arr[j] = temp;
+        arr[i]   = arr[j];
+        arr[j]   = temp;
     }
     public static void main(String[] args) {
         int[] arr = new int[]{1, 2, 4, 6};
