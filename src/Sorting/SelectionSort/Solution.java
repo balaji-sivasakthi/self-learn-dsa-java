@@ -24,7 +24,7 @@ public class Solution {
         System.out.println(Arrays.toString(arr));
         /*
         *       Time Complexity  :- O(N^2)
-        *       Space Complexity :- O(N)
+        *       Space Complexity :- O(1)
         * */
     }
 }
