@@ -2,7 +2,7 @@
 
 This repository is designed to help you enhance your problem-solving skills and master DSA concepts through a collection of well-crafted solutions to various coding problems.
 ## TL;TR
-- [Basic](https://github.com/balaji-sivasakthi/self-learn-dsa-java/tree/main/src/Basic)
+- [Basic](https://github.com/balaji-sivasakthi/self-learn-dsa-java/tree/main/src/Basics)
 - [Array](https://github.com/balaji-sivasakthi/self-learn-dsa-java/tree/main/src/Array)
 - [Searching](https://github.com/balaji-sivasakthi/self-learn-dsa-java/tree/main/src/Searching)
 - [Sorting](https://github.com/balaji-sivasakthi/self-learn-dsa-java/tree/main/src/Sorting)
