@@ -11,7 +11,7 @@ public class Solution2 {
         int[] arr = new int[] { 2, 5, 67, 24};
         System.out.println("Max element : "+findLargestNumber(arr));
         /*
-         *      Time Complexity   :- O(N+NlogN)
+         *      Time Complexity   :- O(NlogN)
          *      Space Complexity  :- O(1)
          */
     }
