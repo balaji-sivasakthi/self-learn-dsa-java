@@ -1,6 +1,4 @@
 package Array.LeftRotateByOnePlace;
-
-import java.sql.Array;
 import java.util.Arrays;
 
 public class Solution {
