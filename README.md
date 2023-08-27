@@ -1,7 +1,11 @@
 # Data Structures and Algorithms (DSA)
 
 This repository is designed to help you enhance your problem-solving skills and master DSA concepts through a collection of well-crafted solutions to various coding problems.
-
+## Overview
+- [Basic](https://github.com/balaji-sivasakthi/self-learn-dsa-java/tree/main/src/Basics)
+- [Array](https://github.com/balaji-sivasakthi/self-learn-dsa-java/tree/main/src/Array)
+- [Searching](https://github.com/balaji-sivasakthi/self-learn-dsa-java/tree/main/src/Searching)
+- [Sorting](https://github.com/balaji-sivasakthi/self-learn-dsa-java/tree/main/src/Sorting)
 ## Why DSA Practice Matters?
 
 Data Structures and Algorithms form the backbone of computer science and software development. They are essential tools that empower you to write efficient and optimized code, leading to faster and more scalable applications. Whether you are preparing for coding interviews or looking to become a better programmer, practicing DSA is crucial to your success.
