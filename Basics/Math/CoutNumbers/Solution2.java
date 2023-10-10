@@ -7,7 +7,7 @@ public class Solution2 {
         Scanner scanner = new Scanner(System.in);
         int number = scanner.nextInt();
         String str = String.valueOf(number);
-        System.out.println("Number of Digits"+str.length());
+        System.out.println("Number of Digits" + str.length());
         /*
          *     Time Complexity =  O(1)
          *     Space Complexity = O(1)

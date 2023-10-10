@@ -6,10 +6,10 @@ public class Solution2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int number = scanner.nextInt();
-        for(int i = 1; i <= Math.sqrt(number); i++){
-            if(number % i == 0){
+        for (int i = 1; i <= Math.sqrt(number); i++) {
+            if (number % i == 0) {
                 System.out.println(i);
-                if(i != number/i) System.out.println(number/i);
+                if (i != number / i) System.out.println(number / i);
             }
         }
         /*

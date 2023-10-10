@@ -7,13 +7,13 @@ public class Solution1 {
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt();
         int sum = 0;
-        for (int i = 1; i <= n; i++){
+        for (int i = 1; i <= n; i++) {
             sum += i;
         }
         System.out.println("Sum of First N numbers " + sum);
         /*
-        *   Time Complexity  :- O(N)
-        *   Space Complexity :- O(1)
-        * */
+         *   Time Complexity  :- O(N)
+         *   Space Complexity :- O(1)
+         * */
     }
 }

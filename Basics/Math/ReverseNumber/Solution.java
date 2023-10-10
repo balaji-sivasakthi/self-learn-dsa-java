@@ -8,11 +8,11 @@ public class Solution {
         int number = scanner.nextInt();
         int reverse = 0;
         int temp = number;
-        while(number != 0){
-            reverse = reverse*10 + number%10;
-            number  = number/10;
+        while (number != 0) {
+            reverse = reverse * 10 + number % 10;
+            number = number / 10;
         }
-        System.out.println("Reverse of the number "+temp+" is "+reverse);
+        System.out.println("Reverse of the number " + temp + " is " + reverse);
         /*
          *     Time Complexity =  o(logN)
          *     Space Complexity = O(1)
