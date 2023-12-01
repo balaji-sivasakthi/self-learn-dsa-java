@@ -1,6 +1,5 @@
 package LinkedList;
 
-import java.util.List;
 
 public class SinglyLinkedList {
     public static class  LinkNode<T>{
@@ -50,7 +49,7 @@ public class SinglyLinkedList {
     public static <T> LinkNode<T> reverseLinkedList(LinkNode<T> head){
         LinkNode<T> current = head;
         LinkNode<T> prev = null;
-        LinkNode<T> next = null;
+        LinkNode<T> next;
         while (current!=null){
             next = current.next;
             current.next = prev;
