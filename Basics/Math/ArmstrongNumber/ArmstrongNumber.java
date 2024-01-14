@@ -10,7 +10,7 @@ public class ArmstrongNumber {
         int sum = 0;
         int temp = number;
         while (number != 0) {
-            sum += Math.pow(number % 10, digits);
+            sum += (int) Math.pow(number % 10, digits);
             number = number / 10;
         }
         System.out.println("Is this number is Armstrong?" + (sum == temp));
