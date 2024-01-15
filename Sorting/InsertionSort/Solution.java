@@ -15,9 +15,23 @@ public class Solution {
         }
     }
 
+    public static void recursiveInsertionSort(int [] arr, int i, int n){
+        if(i > n){
+            return;
+        }
+        int hole  = i;
+        int value = arr[i];
+        while(hole > 0 && arr[hole - 1] > value){
+            arr[hole] = arr[hole-1];
+            hole--;
+        }
+        arr[hole] = value;
+        recursiveInsertionSort(arr, i+1, n);
+    }
     public static void main(String[] args) {
         int[] arr = new int[]{43, 23, 67, 12};
-        insertionSort(arr);
+        //insertionSort(arr);
+        recursiveInsertionSort(arr, 1, arr.length-1);
         System.out.println(Arrays.toString(arr));
         /*
          *     Time Complexity :- O(N^2)
